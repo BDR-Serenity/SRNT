@@ -1,10 +1,4 @@
-# Serenity (SRNT)
-
-**LICENSE**
-
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">OPEN Data Base - #Serenity (ODB-SRNT)</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://srnt.life" property="cc:attributionName" rel="cc:attributionURL">Serenity BDR (#SRNT)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/BDR-Setenity/OpenDataBase" rel="dct:source">https://github.com/BDR-Setenity/OpenDataBase</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="info@srnt.life" rel="cc:morePermissions">info@srnt.life</a>.
+# Serenity (SRNT PL)
 
 **#SRNT - AI Crisis Aide platform:**
 
@@ -19,3 +13,9 @@ Key elements:
 6. Automated Assistance: The platform will use AI algorithms to provide automated assistance to those in need. This could include providing relevant information about the crisis, offering recommendations for action, and connecting users with appropriate resources and support.
 7. Integration with Partner Organizations: The platform will be integrated with a network of partner organizations that provide support and assistance to those in need. This will allow the platform to leverage the resources of these organizations to provide more effective assistance to users.
 8. Continuous Improvement: The platform will continually collect feedback from users and partner organizations to improve its functionality and effectiveness. The data collected will be used to enhance the platform's AI algorithms, improve the user interface, and expand the network of partner organizations.
+
+**LICENSE**
+
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Dataset" property="dct:title" rel="dct:type">OPEN Data Base - #Serenity (ODB-SRNT)</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://srnt.life" property="cc:attributionName" rel="cc:attributionURL">Serenity BDR (#SRNT)</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/BDR-Setenity/OpenDataBase" rel="dct:source">https://github.com/BDR-Setenity/OpenDataBase</a>.<br />Permissions beyond the scope of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="info@srnt.life" rel="cc:morePermissions">info@srnt.life</a>.
