@@ -1,4 +1,4 @@
-# Serenity (SRNT PL)
+# Serenity (PL-SRNT)
 
 **#SRNT - AI Crisis Aide platform:**
 
